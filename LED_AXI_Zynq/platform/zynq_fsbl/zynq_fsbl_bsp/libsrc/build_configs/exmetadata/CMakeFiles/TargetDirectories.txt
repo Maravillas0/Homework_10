@@ -1,0 +1,11 @@
+D:/Homework_10/LED_AXI_Zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/exmetadata/CMakeFiles/gpio_example.dir
+D:/Homework_10/LED_AXI_Zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/exmetadata/CMakeFiles/tmrctr_example.dir
+D:/Homework_10/LED_AXI_Zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/exmetadata/CMakeFiles/coresightps_dcc_example.dir
+D:/Homework_10/LED_AXI_Zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/exmetadata/CMakeFiles/devcfg_example.dir
+D:/Homework_10/LED_AXI_Zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/exmetadata/CMakeFiles/dmaps_example.dir
+D:/Homework_10/LED_AXI_Zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/exmetadata/CMakeFiles/scugic_example.dir
+D:/Homework_10/LED_AXI_Zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/exmetadata/CMakeFiles/scutimer_example.dir
+D:/Homework_10/LED_AXI_Zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/exmetadata/CMakeFiles/scuwdt_example.dir
+D:/Homework_10/LED_AXI_Zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/exmetadata/CMakeFiles/xadcps_example.dir
+D:/Homework_10/LED_AXI_Zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/exmetadata/CMakeFiles/edit_cache.dir
+D:/Homework_10/LED_AXI_Zynq/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/exmetadata/CMakeFiles/rebuild_cache.dir
